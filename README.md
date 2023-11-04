@@ -1,2 +1,2 @@
-# html-portfolio
-My first HTML portfolio!
+# html-resume-project
+My first HTML project!
